@@ -3,7 +3,7 @@
   "wake_word": "operator",
   "author": "Michael Hansen",
   "website": "nunya",
-  "model": "github://Milonster/homebaseworkarounds/stream_state_internal_quant.tflite",
+  "model": "stream_state_internal_quant.tflite",
   "trained_languages": [
     "en"
   ],
