@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "operator",
   "author": "Enrique",
-  "website": "https://example.com",
-  "model": "./stream_state_internal_quant.tflite",
+  "website": "https://github.com/Milonster/homebaseworkarounds",
+  "model": "stream_state_internal_quant.tflite",
   "trained_languages": [
     "en"
   ],
